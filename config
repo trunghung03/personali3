@@ -214,10 +214,8 @@ exec_always clipit
 
 #autohotkey
 bindsym Ctrl+Shift+g exec firefox www.google.com/search?q=$(xclip -o)
-
-#nhentai
 bindsym Ctrl+Shift+h exec python3 /home/synapse26/Documents/pyAuto/nhentai.py
 
-#FAKKU
+#TorrentDownloader
 exec python3 /home/synapse26/Downloads/FAKKU/scraper.py
 
